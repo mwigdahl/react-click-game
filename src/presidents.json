@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "George Washington",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/165px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"
+    },
+    {
+        "id": 2,
+        "name": "John Adams",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/John_Adams%2C_Gilbert_Stuart%2C_c1800_1815.jpg/165px-John_Adams%2C_Gilbert_Stuart%2C_c1800_1815.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Thomas Jefferson",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/165px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg"
+    },
+    {
+        "id": 4,
+        "name": "James Madison",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/165px-James_Madison.jpg"
+    },
+    {
+        "id": 5,
+        "name": "James Monroe",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/165px-James_Monroe_White_House_portrait_1819.jpg"
+    },
+    {
+        "id": 6,
+        "name": "John Quincy Adams",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/JQA_Photo.tif/lossy-page1-165px-JQA_Photo.tif.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Andrew Jackson",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/165px-Andrew_jackson_head.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Martin Van Buren",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Martin_Van_Buren_edit.jpg/165px-Martin_Van_Buren_edit.jpg"
+    },
+    {
+        "id": 9,
+        "name": "William Henry Harrison",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/William_Henry_Harrison_daguerreotype_edit.jpg/165px-William_Henry_Harrison_daguerreotype_edit.jpg"
+    },
+    {
+        "id": 10,
+        "name": "John Tyler",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/John_Tyler%2C_Jr.jpg/165px-John_Tyler%2C_Jr.jpg"
+    },
+    {
+        "id": 11,
+        "name": "James K. Polk",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JKP.jpg/165px-JKP.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Zachary Taylor",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zachary_Taylor_restored_and_cropped.jpg/165px-Zachary_Taylor_restored_and_cropped.jpg"
+    }
+
+]
